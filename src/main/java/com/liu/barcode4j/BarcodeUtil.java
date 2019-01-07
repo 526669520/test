@@ -96,5 +96,8 @@ public class BarcodeUtil {
         System.out.println("2222222");
         System.out.println("2222222");
         System.out.println("2222222");
+        System.out.println("33333333332");
+        System.out.println("33333333332");
+        System.out.println("33333333332");
     }
 }
