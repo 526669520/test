@@ -90,5 +90,8 @@ public class BarcodeUtil {
         String path = "d:test.png";
         generateFile(msg, path);
         System.out.println("2222222");
+        System.out.println("2222222");
+        System.out.println("2222222");
+        System.out.println("2222222");
     }
 }
